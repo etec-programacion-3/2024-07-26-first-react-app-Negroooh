@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
@@ -33,3 +34,16 @@ function App() {
 }
 
 export default App
+=======
+import HolaMundo from "./components/HolaMundo"
+
+function App() {
+  return (
+    <div>
+  <HolaMundo />
+  <p>programacion3</p>
+    </div>
+  )
+  }
+export default App
+>>>>>>> 5d9b987611c31d806b1fb5c63edc044185fd9fb3
